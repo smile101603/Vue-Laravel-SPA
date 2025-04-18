@@ -1,14 +1,3 @@
-## Video Chat Application Example
-
-[Youtube Tutorial link](https://www.youtube.com/watch?v=Jd1RW-0lQOs&t=13s)
-
-#### [@WeCodeTutorials](https://twitter.com/WeCodeTutorials)
-[![Logo](https://cdn.pbrd.co/images/HdwCut8.png)](https://www.youtube.com/channel/UCj9VatwdukZjNOnIKcpWcsA)
-
-This project is made for my youtube tutorial on "Create a SPA with Vue.JS 2, Vue-Router, Vuex and Laravel 5.6".
-
-![App Example](https://media.giphy.com/media/9JkdzNeLr0Jos5CYQk/giphy.gif)
-
 ## get it up and running.
 
 After you clone this project, do the following:
